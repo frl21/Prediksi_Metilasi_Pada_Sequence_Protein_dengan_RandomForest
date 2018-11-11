@@ -1,0 +1,2 @@
+# Prediksi_Metilasi_Pada_Sequence_Protein_dengan_RandomForest
+Prediksi Metilasi pada Sequence Protein Dengan Menggunakan Metode Random Forest
